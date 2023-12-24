@@ -6,8 +6,6 @@ The Spring Cloud Kubernetes Discovery Server provides HTTP endpoints apps can us
 
 [Overview of Spring Cloud Kubernetes Discovery Server](https://docs.spring.io/spring-cloud-kubernetes/reference/spring-cloud-kubernetes-discoveryserver.html)
 
-Trademarks: This software listing is packaged by Bitnami. The respective trademarks mentioned in the offering are owned by the respective companies, and use of them does not imply any affiliation or endorsement.
-
 ## TL;DR
 
 ```console
