@@ -1,0 +1,15 @@
+apiVersion: v1
+entries:
+  spring-cloud-kubernetes-discoveryserver:
+  - apiVersion: v2
+    appVersion: 3.0.4
+    created: "2023-12-24T17:25:11.671642+03:00"
+    description: A Helm chart for Kubernetes
+    digest: 8431154d90e98f3a786093b97d40a8d180c5091c3abef11cfb933b858c0a9add
+    icon: https://avatars.githubusercontent.com/u/7815877?s=200&v=4
+    name: spring-cloud-kubernetes-discoveryserver
+    type: application
+    urls:
+    - https://susimsek.github.io/spring-cloud-kubernetes-discoveryserver-helm-chart/spring-cloud-kubernetes-discoveryserver-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-12-24T17:25:11.670444+03:00"
